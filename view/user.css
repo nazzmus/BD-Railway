@@ -1,0 +1,86 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+}
+
+.header
+{
+    background-color: bisque;
+    line-height: 70px;
+    padding-left: 30px;
+}
+
+a
+{
+    text-decoration: none;
+}
+
+.logout
+{
+    float: right;
+    padding-right: 30px;
+}
+
+ul
+{
+    background-color: darkslateblue;
+    width: 16%;
+    height: 100%;
+    padding-top: 5%;
+    text-align: center;
+    position: fixed;
+}
+
+ul li
+{
+    list-style: none;
+    padding-bottom: 30px;
+    font-size: 15px;
+}
+
+ul li a
+{
+    color: aliceblue;
+    font-weight: bold;
+}
+
+.content
+{
+    padding-left: 10px;
+    margin-left: 25%;
+    margin-top: 1%;
+    text-align:justify;
+    text-justify:values;
+
+}
+.train
+{
+    margin-left: 17%;
+    width: 100%;
+    height: 1px;
+    position: fixed;
+}
+
+.divisionstation
+{
+    margin-left: 17%;
+    width: 100%;
+    height: 1px;
+}
+.station
+{
+    margin-left: 34%;
+    width: 100%;
+    height: 1px;
+}
+.profile
+{
+    display: inline-block;
+    font-weight: bold;
+    text-align: center;
+    width: 500px;
+    padding-top: 50px;
+    padding-bottom: 30px;
+    background-color: skyblue;
+}
